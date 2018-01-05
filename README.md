@@ -1,4 +1,4 @@
-# Dining Hall Analysis - Pilot Study
+# Dining Hall Analysis - Pilot Study (IN PROGRESS)
 Exploratory analysis into the Claremont Colleges dining halls. 
 January 2, 2017
 
