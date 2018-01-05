@@ -25,7 +25,14 @@ head(samp_board_plus)
 ```
 
 ```{r}
+samp_board$Description = 
+  gsub("^((\\w+\\W+)\\w+).*$","\\1", samp_board$Description)
 
+samp_board <- samp_board %>%
+  mutate(school = substr(Description, 1, 3))
 ```
 
+```{r}
+head(samp_board)
+```
 
