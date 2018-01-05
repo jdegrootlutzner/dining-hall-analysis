@@ -18,3 +18,5 @@ Often groups of friends, class mates, or teammates will eat meals together. If t
 I am interested in the general statistics of when and where individuals eat. Are there trends? Do students go to meals later or less frequently in the end of the semester? Is my personal schedule predictable?
 
 ## Inititial Exploration into Personal Data
+
+For now this is a PDF. See [sample-data-analysis.pdf](https://github.com/jdegrootlutzner/dining-hall-analysis/blob/master/sample-data-analysis.pdf).
